@@ -8,7 +8,7 @@ My goal with this project is to make a website that leverages both HTML and CSS.
 ### Goals
 *Items marked in ***bold*** are important milestones*
 
-- [ ] Code a plain HTML website to use as a base.
+- [x] Code a plain HTML website to use as a base.
 - [ ] Complete CSS Chapter 1: Start Here
 - [ ] Complete CSS Chapter 2: Selectors
 - [ ] Complete CSS Chapter 3: Colors
