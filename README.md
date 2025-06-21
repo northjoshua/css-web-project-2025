@@ -1,5 +1,5 @@
 # css-web-project-2025
-A simple practise website to study and learn CSS.
+A simple practice website to study and learn CSS.
 
 ## Outline
 
